@@ -20,7 +20,7 @@ The designs were created to the following widths:
 
 ### Headings
 
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Family: [Poppins](https://-3fonts.google.com/specimen/Poppins)
 - Weights: 400, 600
 
 ### Body

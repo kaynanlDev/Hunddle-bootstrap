@@ -1,0 +1,42 @@
+$Violet: hsl(257, 40%, 49%);
+$Soft-Magenta: hsl(300, 69%, 71%);
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bg-mobile{
+    width: 100%;
+    height: 100%;
+    background: url('../../../images/bg-desktop.svg')no-repeat center / cover;
+}
+
+.bg-color-primary{
+    background-color: $Violet;
+}
+.text-color-primary{
+    color: $Violet;
+}
+
+h1{
+    font-family: 'poppins', sans-serif;
+    font-weight: 600;
+}
+p{
+    font-family: 'open sans', sans-serif;
+}
+a{
+    font-family: 'poppins', sans-serif;
+    width: 200px;
+}
+.btn:hover{
+    background-color: $Soft-Magenta;
+    color: white;
+    border: none;
+}
+
+.attribution { font-size: 11px; text-align: center; position: absolute; bottom: 0; left: 50%;}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
